@@ -1,0 +1,13 @@
+079_the_serpent_a.webp	https://scp-wiki.wdfiles.com/local--files/art:sunny-art-pantheon/the_serpent_design_by_sunnyclockwork_dhbnbh6-375w-2x.webp
+opener_scp_b.webp	https://scp-wiki.wdfiles.com/local--files/sunny-art-goi/the_foundation_by_sunnyparallax-d90z0ur.webp
+041_tuoni_a.jpg	https://commons.wikimedia.org/wiki/Special:FilePath/Gallen-Kallela_-_Tuonelan_joella.jpg
+opener_sami_b.jpg	https://commons.wikimedia.org/wiki/Special:FilePath/Sami_drum,_Lapland,_undated_-_Nordiska_museet_-_DSC09949.JPG
+067_sagume_kishin_a.png	https://en.touhouwiki.net/wiki/Special:FilePath/Th15Sagume.png
+080_mystra_a.png	https://forgottenrealms.fandom.com/wiki/Special:FilePath/BG3_Mystra.png
+080_mystra_b.png	https://forgottenrealms.fandom.com/wiki/Special:FilePath/Elminster_and_mystra.png
+082_shar_a.jpg	https://forgottenrealms.fandom.com/wiki/Special:FilePath/Avatar_of_shar.jpg
+083_bahamut_a.jpg	https://forgottenrealms.fandom.com/wiki/Special:FilePath/Bahamut.jpg
+083_bahamut_b.jpg	https://forgottenrealms.fandom.com/wiki/Special:FilePath/Aspect_of_Bahamut.jpg
+085_lolth_a.jpg	https://forgottenrealms.fandom.com/wiki/Special:FilePath/Descent_Lolth_avatar.jpg
+opener_dnd_a.jpg	https://forgottenrealms.fandom.com/wiki/Special:FilePath/Dark_Seldarine_-_F%26P.jpg
+opener_dnd_b.jpg	https://forgottenrealms.fandom.com/wiki/Special:FilePath/Elven_Pantheon.jpg

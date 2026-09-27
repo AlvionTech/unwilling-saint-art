@@ -1,0 +1,41 @@
+PATRONS STILL WITHOUT ART (optional - add any you find)
+
+Name the file with the number shown, e.g. 084_tiamat.jpg, and put it in the unwilling_saint_art folder.
+
+075  The Mither
+     Search "The Mither SCP art" or "Mither Orcadian pantheon". The SCP Wiki art pages only have group images of the 13 Orcadian gods; one where she is clearly labeled works.
+
+078  Rakmou-leusan
+     Search "Rakmou-leusan fan art" (DeviantArt/ArtStation). The old SCP Wiki drawing by NatVoltaic was deleted.
+
+002  Gork & Mork (Ork gods)
+     Lexicanum page "Gork and Mork": the image captioned "An ancient depiction of Gork and Mork". Or official Ork art showing the two gods. Credit the artist if the file page gives one.
+
+040  The Emperor of Mankind
+     Lexicanum/Fandom "Emperor of Mankind": "The Emperor upon the Golden Throne", or official art of the Emperor at the Siege of Terra. Note the artist (e.g. Paul Dainton, Adrian Smith, John Blanche).
+
+opener_40k  Warhammer 40,000 (book opener)
+     Optional: any official Imperium/Ork key art for the Warhammer section opener.
+
+039  Mielikki
+     Search "Mielikki Kalevala painting". Old Finnish illustrations of the forest mistress. Don't use Forgotten Realms Mielikki art, since this is the Finnish entry.
+
+042  Tuonetar
+     Search "Tuonetar painting" or "Tuonen tytti". Kalevala illustrations of the Tuonela maidens are acceptable only if captioned.
+
+044  Kuutar
+     Search "Kuutar Kalevala". Ekman's "Väinämöisen soitto" is already assigned to Päivätär, so it can't be reused.
+
+055  Leaibolmai
+     Search "Leaibolmai Sámi mythology symbol svg" on Wikimedia Commons (the same series as the Bieggolmai symbol).
+
+081  Selûne
+     Forgotten Realms Wiki "Selûne": the article image (official WotC art). Save the full-size file.
+
+084  Tiamat
+     Forgotten Realms Wiki "Tiamat": official art (e.g. from Rise of Tiamat / Fizban's Treasury of Dragons).
+
+086  Kelemvor
+     Forgotten Realms Wiki "Kelemvor": the image captioned "The masked Kelemvor."
+
+Also borderline: 020 Eir. The only candidate shows her unlabeled among nine maidens, so it may be left without art.
